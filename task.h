@@ -31,7 +31,6 @@ public:
     void nextDot6(QLineSeries*&, QTableWidget*&);
     void nextDot6C(QLineSeries*&, QTableWidget*&);
     void nextDot5(QLineSeries*&);
-    void nextDot5C(QLineSeries*&);
 
 };
 
